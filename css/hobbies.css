@@ -1,0 +1,59 @@
+* { 
+    font-family: sans-serif; 
+}
+
+ul {
+    list-style: none;
+}
+
+.links {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+}
+
+.nav-bar {
+    text-align: center;
+    margin: 0;
+    padding-top: 35px;
+    justify-content: center;
+    padding-left: 0;
+    
+}
+
+#main-menu .nav-bar li { 
+    display:inline; 
+    padding:0 20px;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 80px;
+    text-transform: uppercase;
+    padding-bottom: 100px;
+}
+
+header {
+    color: white;
+}
+
+main {
+    color: black;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+body {
+    margin: 0;
+}
+
+ol {
+    background-color: rgb(231, 238, 238);
+    border-radius: 10px;
+}
+
+li {
+    padding-top: 20px;
+}
+
